@@ -21,7 +21,7 @@ This is a basic BreakOut Brick 2D Game.
 ### Links
 
 - Solution URL: https://github.com/archi-jain/Block-breaker-game
-- Live Site URL: 
+- Live Site URL: https://stupefied-austin-a5285f.netlify.app/
 
 ## My process
 
